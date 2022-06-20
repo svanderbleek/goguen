@@ -9,7 +9,7 @@ Playing around with some ideas for writing a proof system in Rust
 
 ## projects
 
-* [Ante](https://github.com/jfecher/ante)
-* [KAT](https://www.cs.cornell.edu/Projects/KAT/)
+* [Ante Language](https://github.com/jfecher/ante)
+* [Kleene Algebra with Tests](https://www.cs.cornell.edu/Projects/KAT/)
 * [Hoare Advanced Homework Assistant](https://haha.mimuw.edu.pl/#overview)
 * [Kumo A Web Based Proof Assistant](https://cseweb.ucsd.edu/groups/tatami/kumo/)
